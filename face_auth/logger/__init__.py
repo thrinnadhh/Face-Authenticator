@@ -2,6 +2,7 @@ import logging
 import os
 from datetime import datetime
 
+
 # Creating logs directory to store log in files
 LOG_DIR = "logs"
 LOG_DIR = os.path.join(os.getcwd(), LOG_DIR)
