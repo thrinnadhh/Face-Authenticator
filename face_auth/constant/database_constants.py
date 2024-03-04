@@ -6,3 +6,5 @@ USER_COLLECTION_NAME = CommonUtils().get_environment_variable("USER_COLLECTION_N
 EMBEDDING_COLLECTION_NAME = CommonUtils().get_environment_variable(
     "EMBEDDING_COLLECTION_NAME"
 )
+
+
