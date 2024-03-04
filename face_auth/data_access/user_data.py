@@ -2,7 +2,6 @@ from face_auth.config.database import MongodbClient
 from face_auth.constant.database_constants import USER_COLLECTION_NAME
 from face_auth.entity.user import User
 
-
 class UserData:
     """This class will have all the mongo db operations for user data
     like get_user and save_user
