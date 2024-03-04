@@ -1,5 +1,4 @@
 name: Apply changest to Infrastructure
-
 on:
   push:
     branches:
