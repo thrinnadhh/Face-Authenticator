@@ -2,7 +2,6 @@ import io
 import sys
 from ast import Bytes
 from typing import List
-
 import numpy as np
 from deepface import DeepFace
 from deepface.commons.functions import detect_face
