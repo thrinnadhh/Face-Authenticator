@@ -10,3 +10,5 @@ class Embedding:
 
     def __str__(self) -> str:
         return str(self.to_dict())
+
+
