@@ -5,7 +5,6 @@ from face_auth.constant.database_constants import (
     MONGODB_URL_KEY
 )
 
-
 class MongodbClient:
     client = None
 
